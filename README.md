@@ -1,7 +1,5 @@
 # LetsGrowMore-Intern-Projects-and-works
-
-## Thanks for this oopurtunity LetsGrowMore Virtual Intern
-## Here, there are 3 Projects 
+ Thanks for this oopurtunity LetsGrowMore Virtual Intern  Here, there are 3 Projects 
 # Beginner level task 1 
 # IRIS FLOWER CLASSIFICATION
 ![image](https://user-images.githubusercontent.com/66521280/132902497-a51e053d-d358-4511-8a73-d36e11840418.png)
